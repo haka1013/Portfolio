@@ -25,7 +25,7 @@ h3 {
   opacity: 0.7;
 }
 
-p {
+.about-paragraphs p {
   margin: 10px;
   padding: 20px;
   background: var(--secondary-color);
